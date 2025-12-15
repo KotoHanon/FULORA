@@ -1,4 +1,4 @@
-![](https://img.picui.cn/free/2025/03/02/67c3d824bb2b8.png)
+![](./assets/Poster.png)
 
 ## Walk Wisely on Graph: Knowledge Graph Reasoning with Dual Agents via Efficient Guidance-Exploration (AAAI'25)
 
